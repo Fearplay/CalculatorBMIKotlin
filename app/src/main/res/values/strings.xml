@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_underweight">Underweight</string>
+    <string name="bmi_normal">Normal</string>
+    <string name="bmi_overweight">Overweight</string>
+    <string name="bmi_obese">Obese</string>
+    <string name="underweight_value">Smaller than 18.5</string>
+    <string name="normal_value">18.5 – 24.9</string>
+    <string name="overweight_value">25.0 – 29.9</string>
+    <string name="obese_value">Bigger than 29.9</string>
+    <string name="bmi_about">About BMI</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="button_calculator">Calculator</string>
+    <string name="button_about">About BMI</string>
+    <string name="button_quit">QUIT</string>
+    <string name="change_background">Change Background</string>
+    <string name="button_first">FIRST</string>
+    <string name="button_second">SECOND</string>
+    <string name="button_third">THIRD</string>
+    <string name="text_height">Height:</string>
+    <string name="hint_height">Type your height</string>
+    <string name="height_cm">cm</string>
+    <string name="text_weight">Weight:</string>
+    <string name="hint_weight">Type your weight</string>
+    <string name="weight_kg">kg</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="result_text">Your BMI is:</string>
+    <string name="toast_zero">You can not divide by zero!</string>
+    <string name="toast_both_fields">Both fields must be filled out!</string>
+</resources>
