@@ -18,4 +18,5 @@ This is **simple calculator** for BMI. You can check what **BMI value** you have
 3. **BMI calculator**
 
 ## Resources
-I created all the backgrounds in Paint 3D
+1. I created all the backgrounds in Paint 3D.
+2. <a href="https://www.flaticon.com/free-icons/bmi" title="bmi icons">Bmi icons created by Freepik - Flaticon</a>
